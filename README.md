@@ -3,8 +3,6 @@
 
 Currently pursuing a Bachelor's degree at the Sepuluh Nopember Institute of Technology.
 
-#### What I'm up to: Learning React and doing my thesis in Deep Learning
-
 - 🔭 I’m currently working on improving my portfolio.
 - 🌱 I’m interested in Software Engineering and Machine Learning.
 - ⚡ Fun fact: The person reading this is awesome!
